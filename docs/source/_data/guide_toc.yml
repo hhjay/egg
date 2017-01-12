@@ -19,7 +19,10 @@ Core:
   Logger: /core/logger.html
   Error Handling: /core/error-handling.html
   i18n: /core/i18n.html
+  View: /core/view.html
 Advanced:
+  # Deployment: /advanced/deployment.html
+  View Plugin: /advanced/view-plugin.html
   Cluster: /advanced/cluster.html
   Framework: /advanced/framework.html
   Plugin: /advanced/plugin.html
